@@ -1,0 +1,6 @@
+{
+  "name": "VITALORA — Premium AI Healthcare Platform",
+  "description": "Premium AI-powered healthcare platform with multilingual Gemini clinical assistant, Bihar Blood Band emergency network, hospital locator, doctor appointments, pharmacy, and health record management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
